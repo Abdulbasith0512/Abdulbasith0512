@@ -1,0 +1,43 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # <<< ADD THIS PERMISSIONS BLOCK
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          # Your GitHub username is automatically fetched
+          github_user_name: ${{ github.repository_owner }}
+          
+          # The output files for the animation (light and dark modes)
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to repository
+        run: |
+          git config --global user.name 'Balu Rakesh'
+          git config --global user.email 'balarakeshg16@gmail.com'
+          git add dist/
+          git commit -m "Generate Snake" || echo "No changes to commit"
+          git push
