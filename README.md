@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Rakesh Gundapaneni and I'm a Full Stack Web Developer & CS Undergraduate from India</h2>
+<h2 align="left">Hi 👋! My name is Basith and I'm a Full Stack Web Developer & CS Undergraduate from India</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balu-16&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulbasith05126&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=balu-16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=3600" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulbasith0512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=3600" height="150" alt="Top Languages" />
 </div>
 
 ###
@@ -56,7 +56,7 @@
 ###
 
 <div align="left">
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=balarakeshg16@gmail.com&tf=1" target="_blank">
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=basithsd@gmail.com&tf=1" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 
@@ -70,9 +70,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/balu-16/balu-16/main/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Abdulbasith0512/Abdulbasith0512/blob/master/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Abdulbasith0512/Abdulbasith0512/blob/master/dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Abdulbasith0512/Abdulbasith0512/blob/master/dist/github-contribution-grid-snake.svg" />
 </picture>
 
 ###
