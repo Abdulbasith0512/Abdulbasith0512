@@ -1,4 +1,4 @@
-  <h2 align="left">Hi 👋! My name is Basith and I'm a Full Stack Web Developer & CS Undergraduate from India</h2>
+  <h2 align="left">Hi 👋! My name is Basith and I'm a Data Scientist and Full Stack Web Developer & CS Undergraduate from India</h2>
   
   ###
   
