@@ -1,139 +1,189 @@
-# Hi, I'm Abdul Basith Syed 👋
+<h1 align="center">
+  👋 Hi, I'm Abdul Basith Syed
+</h1>
 
-### B.Tech CSE Student | Full-Stack Developer | Data Science & ML Enthusiast
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=600&lines=Full+Stack+Developer+%7C+Data+Science+%26+ML;Building+AI-Powered+Applications;Exploring+Generative+AI+%26+RAG;Turning+Ideas+into+Scalable+Systems" alt="Typing SVG">
+  </a>
+</p>
 
-I'm a Computer Science student at **SRM University–AP** focused on building scalable web applications, data-driven systems, and intelligent AI/ML solutions.
-
-I enjoy turning ideas into practical products — from full-stack applications and analytics platforms to RAG systems and machine learning projects.
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=VIEWS&color=00BFFF&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
-* 🎓 B.Tech Computer Science Engineering | SRM University–AP
-* 💻 Interested in **Full-Stack Development, Data Science & Machine Learning**
-* 🧠 Strong foundation in **Python, C++, SQL & JavaScript/TypeScript**
-* 🔧 Building applications with **React, Node.js, Express & FastAPI**
-* 📊 Working with **Pandas, NumPy, Scikit-learn & Streamlit**
-* 🤖 Exploring **Generative AI, RAG, LLMs & AI-powered applications**
-* 🏆 Smart India Hackathon 2025 — shortlisted among the **Top 45 teams**
-* 📌 Currently building projects that combine **software engineering + AI/ML**
+I'm a **Computer Science & Engineering student at SRM University–AP**, passionate about building **full-stack applications, data-driven systems, and AI-powered solutions**.
+
+* 🚀 Building responsive and scalable **full-stack applications**
+* 🧠 Working with **Machine Learning, Data Science, and predictive analytics**
+* 🤖 Exploring **Generative AI, RAG, LLMs, and intelligent document systems**
+* 📊 Experienced with **Python, SQL, Pandas, NumPy, and Scikit-learn**
+* ⚡ Building backend APIs using **Node.js, Express.js, and FastAPI**
+* 🔬 Interested in combining **software engineering + AI/ML** to solve real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,fastapi,mongodb,postgres,mysql,docker,linux,git,github&perline=8"/>
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+<p align="center">
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
-
-### Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-
-### Data Science & AI/ML
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat\&logo=streamlit\&logoColor=white)
 
-### Tools & Technologies
-
-`Git` `GitHub` `REST APIs` `RAG` `LLMs` `Ollama` `ChromaDB` `FastEmbed` `Gemini API`
+</p>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🧾 AuditIQ — Audit Analytics & Continuous Controls Monitoring
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-A Python-based audit analytics platform designed to identify potential control violations, anomalies and risk patterns in enterprise data.
+### 🔹 AuditIQ
+
+**Audit Analytics & Continuous Controls Monitoring**
+
+Python-based analytics platform designed to identify anomalies, potential control violations, and risk patterns in enterprise data.
 
 **Tech:** Python · Pandas · Scikit-learn · SQL · Streamlit
 
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Offline RAG PDF Chatbot
+
+AI-powered document question-answering system using semantic embeddings, vector retrieval, and local LLM inference.
+
+**Tech:** Python · RAG · Ollama · ChromaDB · FastEmbed
+
+</td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔹 Qubit Chat
+
+Intelligent document interaction platform combining **OCR, semantic chunking, embeddings, RAG, and quantum-inspired retrieval**.
+
+**Tech:** React · TypeScript · FastAPI · Python · Gemini API
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 Customer Churn Intelligence
+
+Machine-learning application for analyzing customer behavior, predicting churn risk, and presenting insights through an interactive dashboard.
+
+**Tech:** Python · Pandas · Scikit-learn · Streamlit
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-### 🤖 Offline RAG PDF Chatbot
+## 🧠 What I Work With
 
-An AI-powered document question-answering system using retrieval-augmented generation, semantic embeddings and local LLM inference.
+```text
+Full Stack Development
+├── React / TypeScript
+├── Node.js / Express.js
+├── FastAPI
+└── REST APIs
 
-**Tech:** Python · RAG · Ollama · ChromaDB · FastEmbed · Streamlit
+Data Science & Machine Learning
+├── Python
+├── Pandas / NumPy
+├── Scikit-learn
+├── Feature Engineering
+└── Model Evaluation
 
----
+Generative AI
+├── RAG
+├── LLM Applications
+├── Ollama
+├── ChromaDB
+└── Semantic Search
 
-### 💬 Qubit Chat
-
-An intelligent document interaction system combining **RAG, semantic retrieval, OCR and quantum-inspired search** to improve document-based question answering.
-
-**Tech:** React · TypeScript · FastAPI · Python · Gemini API · RAG
-
----
-
-### 📊 Customer Churn Intelligence System
-
-A machine learning application for analyzing customer behavior, predicting churn risk and presenting actionable insights through an interactive dashboard.
-
-**Tech:** Python · Pandas · Scikit-learn · Streamlit · Data Visualization
-
----
-
-## 💼 Experience
-
-**Project Manager & ML Model Designer — VHASS Technologies**
-
-Worked across software development and machine learning initiatives, contributing to application architecture, frontend development, model design and performance optimization.
-
-**Frontend Developer Intern — VHASS Technologies**
-
-Developed responsive web interfaces and reusable components using modern frontend technologies.
+Databases & Tools
+├── SQL / MySQL / PostgreSQL
+├── MongoDB
+├── Git / GitHub
+└── Docker
+```
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 Smart India Hackathon 2025 — **Top 45 teams out of 422 registered teams**
-* 🚀 Built multiple full-stack, data science and AI-powered applications
-* 🔬 Working on research involving **AI, RAG and quantum-inspired computing**
+* 🏆 **Smart India Hackathon 2025** — shortlisted among the **Top 45 teams out of 422 registered teams**
+* 🚀 Built multiple **full-stack, machine learning, and AI-powered applications**
+* 🔬 Exploring research and development in **AI, RAG, and quantum-inspired computing**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+</p>
+
+---
+
+## 💡 Engineering Interests
+
+* Building scalable and maintainable applications
+* Designing efficient data pipelines
+* Developing practical machine-learning solutions
+* Exploring LLMs and retrieval-augmented generation
+* Improving application performance and user experience
+* Turning research concepts into working prototypes
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_PROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
-
-### 💡 *Building, learning, and solving real-world problems with code.*
+<p align="center">
+  <i>Building. Learning. Experimenting. Shipping.</i>
+</p>
