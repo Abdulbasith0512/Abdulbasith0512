@@ -15,7 +15,7 @@
     
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulbasith0512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=3600" height="150" alt="Top Languages" />
   </div>
-  ###
+  
   
   <div align="left">
     <!-- Programming Languages -->
@@ -41,7 +41,7 @@
   </div>
   
   
-  ###
+  
   
   <div align="left">
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=basithsd@gmail.com&tf=1" target="_blank">
@@ -53,7 +53,7 @@
   </a>
   </div>
   
-  ###
+  
   
   <br clear="both">
   
