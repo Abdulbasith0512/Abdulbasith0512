@@ -1,5 +1,7 @@
-  <h2 align="left">Hi 👋! My name is Basith and I'm a Data Scientist and Full Stack Web Developer & CS Undergraduate from India</h2>
-  
+```html
+<h2 align="left">Hey 👋, I'm Basith! 🇮🇳</h2>
+<h3 align="left">Data Scientist | Full Stack Developer | CS Undergraduate | Dancer 🕺</h3>
+```  
   ###
   
  
