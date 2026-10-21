@@ -1,7 +1,12 @@
-```html
-<h2 align="left">Hey 👋, I'm Basith! 🇮🇳</h2>
-<h3 align="left">Data Scientist | Full Stack Developer | CS Undergraduate | Dancer 🕺</h3>
-```  
+<h1 align="center">Hey 👋, I'm Basith</h1>
+
+<h3 align="center">
+  Data Scientist | Full Stack Developer | CS Undergraduate | Dancer 🕺
+</h3>
+
+<p align="center">
+  🇮🇳 Based in India · Building with AI, Data & Web Technologies
+</p>
   ###
   
  
