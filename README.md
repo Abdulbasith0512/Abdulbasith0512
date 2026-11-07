@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Basith</h1>
 
 <h3 align="center">
-  Data Scientist | Full Stack Developer | Dancer 🕺
+  Data Scientist | Full Stack Developer | AI Engineer 
 </h3>
 
 <p align="center">
